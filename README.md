@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Yasithsarada/Yasithsarada/blob/main/p.gif)
 <h1 align="center">Hi 👋, I'm Yasith</h1>
 <h3 align="center">A passionate Mobile and web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/Yasithsarada/Yasithsarada/blob/main/p.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Yasithsarada/Yasithsarada/blob/main/e.giff">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasithsarada&label=Profile%20views&color=0e75b6&style=flat" alt="yasithsarada" /> </p>
 
 - 🔭 I’m currently working on [Amazon mobile app clone](https://github.com/Yasithsarada/amazon-Clone.git)
