@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Yasithsarada/Yasithsarada/blob/main/p.gif)]
+![MasterHead](https://github.com/Yasithsarada/Yasithsarada/blob/main/p.gif)
 <h1 align="center">Hi 👋, I'm Yasith</h1>
 <h3 align="center">A passionate Mobile and web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Yasithsarada/Yasithsarada/blob/main/p.gif">
